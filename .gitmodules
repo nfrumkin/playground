@@ -1,0 +1,3 @@
+[submodule "pommerman/agents/EC500Project"]
+	path = pommerman/agents/EC500Project
+	url = https://github.com/thakkarV/EC500Project.git
